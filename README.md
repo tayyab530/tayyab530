@@ -70,6 +70,6 @@ I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlp
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tayyab530&count_private=true&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tayyab530&exclude_days=Sun%2CSat&hide_current_streak=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab530&hide&exclude_repo=Blindo)](https://github.com/anuraghazra/github-readme-stats)
